@@ -12,7 +12,7 @@ Production-ready система управления объектами и за�
 
 ## Live Demo
 
-- **Рабочее приложение:** [https://test-task-fullstack-razrabotchik-react-t-mw3pd73c.vercel.app](https://test-task-fullstack-razrabotchik-react-t-mw3pd73c.vercel.app)
+- **Рабочее приложение:** [https://test-task-fullstack-razrabotchik-re.vercel.app](https://test-task-fullstack-razrabotchik-re.vercel.app)
 - **GitHub Репозиторий:** [https://github.com/GoncharovMaksim/test-task-fullstack-razrabotchik-react-t-mw3pd73c](https://github.com/GoncharovMaksim/test-task-fullstack-razrabotchik-react-t-mw3pd73c)
 
 ### Тестовые учетные записи для проверки
